@@ -382,7 +382,22 @@
         "image" : "tension-bow",
         "code" : "TB"
       },
-      "3.2" : {}
+      "3.2" : {},
+      "3.3" : {
+        "name" : "Tension Bow",
+        "price" : 2150,
+        "description" : "Passive: Every 6s, your next basic attack will deal 210 bonus damage. Armorbreaker: +10% armor pierce (does not stack with other Armorbreaker) +50 Weapon Power",
+        "depending" : [
+          "Six Sins",
+          "Piercing Spear"
+        ],
+        "category" : [
+          "1"
+        ],
+        "tier" : 3,
+        "image" : "tension-bow",
+        "code" : "TB"
+      }
     },
     "*1039_Item_Bonesaw*" : {
       "3.0" : {
@@ -572,7 +587,22 @@
         "code" : "SF"
       },
       "3.1" : {},
-      "3.2" : {}
+      "3.2" : {},
+      "3.3" : {
+        "name" : "Spellfire",
+        "price" : 2700,
+        "description" : "Passive: Abilities dealing crystal damage to enemies (excluding lane minions) deal 8-30 (level 1-12) + 100% of your cryrstal power as bonus crystal damage over 3s and apply Mortal Wounds for the duration. +90 Crystal Power",
+        "depending" : [
+          "Heavy Prismn",
+          "Eclipse Prism"
+        ],
+        "category" : [
+          "2"
+        ],
+        "tier" : 3,
+        "image" : "spellfire",
+        "code" : "SF"
+      }
     },
     "*1044_Item_Frostburn*" : {
       "3.0" : {
@@ -591,7 +621,22 @@
         "code" : "FB"
       },
       "3.1" : {},
-      "3.2" : {}
+      "3.2" : {},
+      "3.3" : {
+        "name" : "Frostburn",
+        "price" : 2600,
+        "description" : "Passive: Crystal damage abilities slow enemy heroes by 30% for 1s. +100 Crystal Power",
+        "depending" : [
+          "Heavy Prismn",
+          "Eclipse Prism"
+        ],
+        "category" : [
+          "2"
+        ],
+        "tier" : 3,
+        "image" : "frostburn",
+        "code" : "FB"
+      }
     },
     "*DragonsEye*" : {
       "3.0" : {
@@ -984,7 +1029,21 @@
         "code" : "AP"
       },
       "3.1" : {},
-      "3.2" : {}
+      "3.2" : {},
+      "3.3" : {
+        "name" : "Atlas Pauldron",
+        "price" : 1900,
+        "description" : "Activate: Maim nearby enemies, lowering their attack speed by 65% of their total for 4s in a 4-meter range. (20s cooldown) +80 Armor + 25 Shield",
+        "depending" : [
+          "Coat of Plates"
+        ],
+        "category" : [
+          "3"
+        ],
+        "tier" : 3,
+        "image" : "atlas-pauldron",
+        "code" : "AP"
+      }
     },
     "*1030_Item_SprintBoots*" : {
       "3.0" : {
@@ -1049,7 +1108,20 @@
         "image" : "stormguard-banner"
       },
       "3.1" : {},
-      "3.2" : {}
+      "3.2" : {},
+      "3.3" : {
+        "name" : "Stormguard Banner",
+        "price" : 600,
+        "description" : "Stormguard: Basic attacks deal 10-60 (level 1-12) bonus true damage per second. 10% effectiveness against heroes and structures. (Does not stack with other Stormguard) +250 Max Health",
+        "depending" : [
+          "Oakheart"
+        ],
+        "category" : [
+          "4"
+        ],
+        "tier" : 2,
+        "image" : "stormguard-banner"
+      }
     },
     "*1047_Item_JourneyBoots*" : {
       "3.0" : {
@@ -1165,6 +1237,21 @@
         "name" : "Stormcrown",
         "price" : 2000,
         "description" : "Stormguard: Basic attacks deal 40-130 (level 1-12) bonus true damage per second. 20% effectiveness against heroes and structures. (Does not stack with other Stormguard) +20% Cooldown Speed +4 Energy Recharge +300 Max Health",
+        "depending" : [
+          "Stormguard Banner",
+          "Chronograph"
+        ],
+        "category" : [
+          "4"
+        ],
+        "tier" : 3,
+        "image" : "stormcrown",
+        "code" : "SC"
+      },
+      "3.3" : {
+        "name" : "Stormcrown",
+        "price" : 2000,
+        "description" : "Stormguard: Basic attacks deal 40-130 (level 1-12) bonus true damage per second. 10% effectiveness against heroes and structures. (Does not stack with other Stormguard) +20% Cooldown Speed +4 Energy Recharge +300 Max Health",
         "depending" : [
           "Stormguard Banner",
           "Chronograph"
@@ -1334,7 +1421,17 @@
         "image" : "weapon-infusion"
       },
       "3.1" : {},
-      "3.2" : {}
+      "3.2" : {},
+      "3.3" : {
+        "name" : "Weapon Infusion",
+        "price" : 500,
+        "description" : "Consume: Temporarily gain 20-70 weapon power, 5%-20% attack speed, and 0-15 armor & shield based on your level. Last 150s. Can only have one infusion at a time.",
+        "category" : [
+          "5"
+        ],
+        "tier" : 1,
+        "image" : "weapon-infusion"
+      }
     },
     "*1053_Item_CrystalInfusion*" : {
       "3.0" : {
@@ -1348,7 +1445,17 @@
         "image" : "crystal-infusion"
       },
       "3.1" : {},
-      "3.2" : {}
+      "3.2" : {},
+      "3.3" : {
+        "name" : "Crystal Infusion",
+        "price" : 500,
+        "description" : "Consume: Temporarily gain 20-70 crystal power, 10%-30% cooldown speed, and 0-15 armor & shield based on your level. Last 150s. Can only have one infusion at a time.",
+        "category" : [
+          "5"
+        ],
+        "tier" : 1,
+        "image" : "crystal-infusion"
+      }
     },
     "Flare Loader" : {
       "3.0" : {

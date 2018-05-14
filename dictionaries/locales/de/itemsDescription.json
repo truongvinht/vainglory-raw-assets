@@ -382,7 +382,22 @@
         "image" : "tension-bow",
         "code" : "TB"
       },
-      "3.2" : {}
+      "3.2" : {},
+      "3.3" : {
+        "name" : "Tension Bow",
+        "price" : 2150,
+        "description" : "Passiv: Alle 6s verursacht deine nächste normale Attacke 210 zusätzlichen Schaden.\nPanzerbrecher: +10% Rüstungsdurchdringung (lässt sich nicht mit anderem Panzerbrecher stapeln)\n\n+60 Waffenstärke",
+        "depending" : [
+          "Six Sins",
+          "Piercing Spear"
+        ],
+        "category" : [
+          "1"
+        ],
+        "tier" : 3,
+        "image" : "tension-bow",
+        "code" : "TB"
+      }
     },
     "*1039_Item_Bonesaw*" : {
       "3.0" : {
@@ -573,7 +588,22 @@
         "code" : "SF"
       },
       "3.1" : {},
-      "3.2" : {}
+      "3.2" : {},
+      "3.3" : {
+        "name" : "Spellfire",
+        "price" : 2700,
+        "description" : "Passiv: Fähigkeiten, die Gegnern(außer Lane-Minions) Kristallschaden zufügen, verursachen 8-30 (Stufe 1-12) +100% deiner Kristallmacht zusätzlichen Kristallschaden über 3s und fügen für diese Zeit tödliche Wunden zu.\n\n+90 Kristallmacht",
+        "depending" : [
+          "Heavy Prismn",
+          "Eclipse Prism"
+        ],
+        "category" : [
+          "2"
+        ],
+        "tier" : 3,
+        "image" : "spellfire",
+        "code" : "SF"
+      }
     },
     "*1044_Item_Frostburn*" : {
       "3.0" : {
@@ -592,7 +622,22 @@
         "code" : "FB"
       },
       "3.1" : {},
-      "3.2" : {}
+      "3.2" : {},
+      "3.3" : {
+        "name" : "Frostburn",
+        "price" : 2600,
+        "description" : "Passiv: Kristallschaden verursachende Fähigkeiten verlangsamen Gegner 1s um 30%.\n\n+100 Kristallmacht",
+        "depending" : [
+          "Heavy Prismn",
+          "Eclipse Prism"
+        ],
+        "category" : [
+          "2"
+        ],
+        "tier" : 3,
+        "image" : "frostburn",
+        "code" : "FB"
+      }
     },
     "*DragonsEye*" : {
       "3.0" : {
@@ -986,7 +1031,21 @@
         "code" : "AP"
       },
       "3.1" : {},
-      "3.2" : {}
+      "3.2" : {},
+      "3.3" : {
+        "name" : "Atlas Pauldron",
+        "price" : 1900,
+        "description" : "Aktiv: Verstümmelt nahe Gegner im Umkreis von 4 Metern 4s lang und verringert ihre Angriffsgeschw. um 65% ihrer Gesamtwertes (20s Abklingzeit).\n\n+80 Rüstung\n+25 Schild",
+        "depending" : [
+          "Coat of Plates"
+        ],
+        "category" : [
+          "3"
+        ],
+        "tier" : 3,
+        "image" : "atlas-pauldron",
+        "code" : "AP"
+      }
     },
     "*1030_Item_SprintBoots*" : {
       "3.0" : {
@@ -1051,7 +1110,20 @@
         "image" : "stormguard-banner"
       },
       "3.1" : {},
-      "3.2" : {}
+      "3.2" : {},
+      "3.3" : {
+        "name" : "Stormguard Banner",
+        "price" : 600,
+        "description" : "Stormguard: Normale Attacken verursachen 10-60 (Stufe 1-12) zusätzlichen reinen Schaden pro Sekunde. Helden erleiden 10% Schaden. (Lässt sich nicht mit anderem Stormguard stapeln)\n\n+250 Maximale Lebensenergie",
+        "depending" : [
+          "Oakheart"
+        ],
+        "category" : [
+          "4"
+        ],
+        "tier" : 2,
+        "image" : "stormguard-banner"
+      }
     },
     "*1047_Item_JourneyBoots*" : {
       "3.0" : {
@@ -1167,6 +1239,21 @@
         "name" : "Stormcrown",
         "price" : 2000,
         "description" : "Stormguard: Normale Attacken 40-130 (Stufe 1-12) zusätzlichen reinen Schaden pro Sekunde. Helden erleiden 20% Schaden. (Lässt sich nicht mit Stormguard stapeln)\n\n+20% Abklinggeschw.\n+4 Energie-regen.\n+300 Maximale Lebensenergie",
+        "depending" : [
+          "Stormguard Banner",
+          "Chronograph"
+        ],
+        "category" : [
+          "4"
+        ],
+        "tier" : 3,
+        "image" : "stormcrown",
+        "code" : "SC"
+      },
+      "3.3" : {
+        "name" : "Stormcrown",
+        "price" : 2000,
+        "description" : "Stormguard: Normale Attacken 40-130 (Stufe 1-12) zusätzlichen reinen Schaden pro Sekunde. Helden erleiden 10% Schaden. (Lässt sich nicht mit Stormguard stapeln)\n\n+20% Abklinggeschw.\n+4 Energie-regen.\n+300 Maximale Lebensenergie",
         "depending" : [
           "Stormguard Banner",
           "Chronograph"
@@ -1336,7 +1423,17 @@
         "image" : "weapon-infusion"
       },
       "3.1" : {},
-      "3.2" : {}
+      "3.2" : {},
+      "3.3" : {
+        "name" : "Weapon Infusion",
+        "price" : 500,
+        "description" : "Verbrauchen: Verleiht für kurze Zeit 20-70 Waffenstärke, 5%-20% Angriffsgeschwindigkeit sowie 0-15 Rüstungs & Schildstärke in Abhängigkeit von deiner Stufe. Wirkt 150s lang. Es wirkt immer nur eine Infusion.",
+        "category" : [
+          "5"
+        ],
+        "tier" : 1,
+        "image" : "weapon-infusion"
+      }
     },
     "*1053_Item_CrystalInfusion*" : {
       "3.0" : {
@@ -1350,7 +1447,17 @@
         "image" : "crystal-infusion"
       },
       "3.1" : {},
-      "3.2" : {}
+      "3.2" : {},
+      "3.3" : {
+        "name" : "Crystal Infusion",
+        "price" : 500,
+        "description" : "Verbrauchen: Verleiht für kurze Zeit 20-70 Kristallmacht, 10%-30% Abklinggeschwindigkeit sowie 0-15 Rüstung & Schild in Abhängigkeit von deiner Stufe. Wirkt 150s lang. Es wirkt immer nur eine Infusion",
+        "category" : [
+          "5"
+        ],
+        "tier" : 1,
+        "image" : "crystal-infusion"
+      }
     },
     "Flare Loader" : {
       "3.0" : {
