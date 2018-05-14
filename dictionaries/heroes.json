@@ -108,6 +108,9 @@
       "br",
       "sa"
     ],
+    "kensei": [
+      "?"  
+    ],
     "kestrel" : [
       "re",
       "kr",
@@ -361,6 +364,9 @@
       "ap",
       "rn",
       "id"
+    ],
+    "kensei": [
+      "?"  
     ],
     "kestrel" : [
       "ft",
@@ -774,6 +780,23 @@
         "title" : "Big Red Button"
       }
     },
+    "kensei": {
+        "perk" : {
+          "title" : "Immovable Mind"
+        },
+        "a" : {
+          "title" : "Lotus Strike",
+          "slow" : true
+        },
+        "b" : {
+          "title" : "Kensho"
+        },
+        "c" : {
+          "title" : "Path of the Ronin",
+          "stun" : true
+        }
+    },
+    
     "kestrel" : {
       "perk" : {
         "title" : "Adrenaline"
@@ -1141,6 +1164,7 @@
     "jo" : "Joule",
     "kt" : "Kestrel",
     "kk" : "Koshka",
+    "ks" : "Kensei",
     "kr" : "Krul",
     "la" : "Lance",
     "ll" : "Lorelai",
