@@ -12,7 +12,8 @@
     "private_party_blitz_match" : "Private Blitz",
     "private_party_casual" : "Private Casual",
     "private_party_vg_5v5" : "Private 5v5",
-    "private_party_draft_match_5v5": "Private Draft 5v5"
+    "private_party_draft_match_5v5": "Private Draft 5v5",
+    "private_party_draft_match":"Private Draft"
   },
   "composition" : {
     "3" : {
