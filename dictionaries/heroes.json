@@ -50,7 +50,8 @@
       "kt",
       "pt",
       "fk",
-      "ag"
+      "ag",
+      "re"
     ],
     "churnwalker" : [
       "re"
@@ -108,8 +109,8 @@
       "br",
       "sa"
     ],
-    "kensei": [
-      "?"  
+    "kensei" : [
+      "?"
     ],
     "kestrel" : [
       "re",
@@ -151,7 +152,8 @@
     "malene" : [
       "jo",
       "kk",
-      "kr"
+      "kr",
+      "vo"
     ],
     "ozo" : [
       "pt",
@@ -365,8 +367,8 @@
       "rn",
       "id"
     ],
-    "kensei": [
-      "?"  
+    "kensei" : [
+      "?"
     ],
     "kestrel" : [
       "ft",
@@ -514,7 +516,8 @@
       "sa",
       "rg",
       "ap",
-      "br"
+      "br",
+      "ml"
     ]
   },
   "ability" : {
@@ -533,7 +536,8 @@
       "c" : {
         "title" : "Verse of Judgement",
         "stun" : true
-      }
+      },
+      "type" : "captain"
     },
     "alpha" : {
       "perk" : {
@@ -548,7 +552,8 @@
       },
       "c" : {
         "title" : "Termination Protocol"
-      }
+      },
+      "type" : "jungler"
     },
     "ardan" : {
       "perk" : {
@@ -564,7 +569,8 @@
       "c" : {
         "title" : "Gauntlet",
         "stun" : true
-      }
+      },
+      "type" : "captain"
     },
     "baptiste" : {
       "perk" : {
@@ -581,7 +587,8 @@
       "c" : {
         "title" : "Fearsome Shade",
         "stun" : true
-      }
+      },
+      "type" : "laner"
     },
     "baron" : {
       "perk" : {
@@ -595,7 +602,8 @@
       },
       "c" : {
         "title" : "Ion Cannon"
-      }
+      },
+      "type" : "laner"
     },
     "blackfeather" : {
       "perk" : {
@@ -610,7 +618,8 @@
       },
       "c" : {
         "title" : "Rose Offensive"
-      }
+      },
+      "type" : "laner"
     },
     "catherine" : {
       "perk" : {
@@ -626,7 +635,8 @@
       "c" : {
         "title" : "Ion Cannon",
         "silence" : true
-      }
+      },
+      "type" : "captain"
     },
     "celeste" : {
       "perk" : {
@@ -641,7 +651,8 @@
       },
       "c" : {
         "title" : "Rose Offensive"
-      }
+      },
+      "type" : "laner"
     },
     "churnwalker" : {
       "perk" : {
@@ -656,7 +667,8 @@
       "c" : {
         "title" : "Trespass",
         "stun" : true
-      }
+      },
+      "type" : "captain"
     },
     "flicker" : {
       "perk" : {
@@ -672,7 +684,8 @@
       },
       "c" : {
         "title" : "Mooncloak"
-      }
+      },
+      "type" : "captain"
     },
     "fortress" : {
       "perk" : {
@@ -687,7 +700,8 @@
       },
       "c" : {
         "title" : "Attack of the Pack"
-      }
+      },
+      "type" : "captain"
     },
     "glaive" : {
       "perk" : {
@@ -703,7 +717,8 @@
       "c" : {
         "title" : "Bloodsong",
         "heal" : true
-      }
+      },
+      "type" : "jungler"
     },
     "grace" : {
       "perk" : {
@@ -719,7 +734,8 @@
       "c" : {
         "title" : "Divine Intervention",
         "heal" : true
-      }
+      },
+      "type" : "captain"
     },
     "grumpjaw" : {
       "perk" : {
@@ -734,7 +750,8 @@
       },
       "c" : {
         "title" : "Stuffed"
-      }
+      },
+      "type" : "jungler"
     },
     "gwen" : {
       "perk" : {
@@ -750,7 +767,8 @@
       "c" : {
         "title" : "Aces High",
         "stun" : true
-      }
+      },
+      "type" : "laner"
     },
     "idris" : {
       "perk" : {
@@ -764,7 +782,8 @@
       },
       "c" : {
         "title" : "Shimmer Strike"
-      }
+      },
+      "type" : "laner"
     },
     "joule" : {
       "perk" : {
@@ -779,25 +798,26 @@
       },
       "c" : {
         "title" : "Big Red Button"
-      }
+      },
+      "type" : "jungler"
     },
-    "kensei": {
-        "perk" : {
-          "title" : "Immovable Mind"
-        },
-        "a" : {
-          "title" : "Lotus Strike",
-          "slow" : true
-        },
-        "b" : {
-          "title" : "Kensho"
-        },
-        "c" : {
-          "title" : "Path of the Ronin",
-          "stun" : true
-        }
+    "kensei" : {
+      "perk" : {
+        "title" : "Immovable Mind"
+      },
+      "a" : {
+        "title" : "Lotus Strike",
+        "slow" : true
+      },
+      "b" : {
+        "title" : "Kensho"
+      },
+      "c" : {
+        "title" : "Path of the Ronin",
+        "stun" : true
+      },
+      "type" : "laner"
     },
-    
     "kestrel" : {
       "perk" : {
         "title" : "Adrenaline"
@@ -811,7 +831,8 @@
       },
       "c" : {
         "title" : "One Shot One Kill"
-      }
+      },
+      "type" : "laner"
     },
     "koshka" : {
       "perk" : {
@@ -826,7 +847,8 @@
       "c" : {
         "title" : "Yummy Catnip Frenzy",
         "stun" : true
-      }
+      },
+      "type" : "jungler"
     },
     "krul" : {
       "perk" : {
@@ -842,7 +864,8 @@
       "c" : {
         "title" : "From Hell's Heart",
         "stun" : true
-      }
+      },
+      "type" : "jungler"
     },
     "lance" : {
       "perk" : {
@@ -858,7 +881,8 @@
       },
       "c" : {
         "title" : "Combat Roll"
-      }
+      },
+      "type" : "captain"
     },
     "lorelai" : {
       "perk" : {
@@ -874,7 +898,8 @@
       },
       "c" : {
         "title" : "Waterwall"
-      }
+      },
+      "type" : "captain"
     },
     "lyra" : {
       "perk" : {
@@ -891,7 +916,8 @@
       },
       "c" : {
         "title" : "Arcane Passage"
-      }
+      },
+      "type" : "captain"
     },
     "malene" : {
       "perk" : {
@@ -909,7 +935,8 @@
       "c" : {
         "title" : "Enchanted Transformation",
         "slow" : true
-      }
+      },
+      "type" : "laner"
     },
     "ozo" : {
       "perk" : {
@@ -927,7 +954,8 @@
       "c" : {
         "title" : "Bangarang",
         "stun" : true
-      }
+      },
+      "type" : "jungler"
     },
     "petal" : {
       "perk" : {
@@ -943,7 +971,8 @@
         "title" : "Spontaneous Combustion",
         "heal" : true,
         "slow" : true
-      }
+      },
+      "type" : "jungler"
     },
     "phinn" : {
       "perk" : {
@@ -959,7 +988,8 @@
       },
       "c" : {
         "title" : "Forced Accord"
-      }
+      },
+      "type" : "captain"
     },
     "reim" : {
       "perk" : {
@@ -975,7 +1005,8 @@
       "c" : {
         "title" : "Valkyrie",
         "stun" : true
-      }
+      },
+      "type" : "jungler"
     },
     "reza" : {
       "perk" : {
@@ -989,7 +1020,8 @@
       },
       "c" : {
         "title" : "Netherform Detonator"
-      }
+      },
+      "type" : "laner"
     },
     "ringo" : {
       "perk" : {
@@ -1004,7 +1036,8 @@
       },
       "c" : {
         "title" : "Hellfire Brew"
-      }
+      },
+      "type" : "laner"
     },
     "rona" : {
       "perk" : {
@@ -1019,7 +1052,8 @@
       },
       "c" : {
         "title" : "Red Mist"
-      }
+      },
+      "type" : "jungler"
     },
     "samuel" : {
       "perk" : {
@@ -1036,7 +1070,8 @@
       "c" : {
         "title" : "Oblivion",
         "sleep" : true
-      }
+      },
+      "type" : "laner"
     },
     "saw" : {
       "perk" : {
@@ -1051,7 +1086,8 @@
       },
       "c" : {
         "title" : "Mad Cannon"
-      }
+      },
+      "type" : "laner"
     },
     "skaarf" : {
       "perk" : {
@@ -1066,7 +1102,8 @@
       },
       "c" : {
         "title" : "Dragon's Breath"
-      }
+      },
+      "type" : "laner"
     },
     "skye" : {
       "perk" : {
@@ -1082,7 +1119,8 @@
         "title" : "Death From Above",
         "stun" : true,
         "slow" : true
-      }
+      },
+      "type" : "laner"
     },
     "taka" : {
       "perk" : {
@@ -1097,7 +1135,8 @@
       },
       "c" : {
         "title" : "X-Retsu"
-      }
+      },
+      "type" : "jungler"
     },
     "tony" : {
       "perk" : {
@@ -1112,7 +1151,8 @@
       "c" : {
         "title" : "Bada Boom",
         "stun" : true
-      }
+      },
+      "type" : "jungler"
     },
     "varya" : {
       "perk" : {
@@ -1126,7 +1166,8 @@
       },
       "c" : {
         "title" : "Anvil's Hammer"
-      }
+      },
+      "type" : "laner"
     },
     "vox" : {
       "perk" : {
@@ -1142,7 +1183,8 @@
       "c" : {
         "title" : "Wait for It",
         "silence" : true
-      }
+      },
+      "type" : "laner"
     }
   },
   "hero" : {
