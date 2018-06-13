@@ -119,6 +119,9 @@
       "rg",
       "ad"
     ],
+    "kinetic" : [
+      "?"
+    ],
     "koshka" : [
       "rg",
       "id",
@@ -199,7 +202,8 @@
       "oz",
       "gl",
       "ft",
-      "jo"
+      "jo",
+      "ap"
     ],
     "samuel" : [
       "sa",
@@ -375,6 +379,9 @@
       "pt",
       "gl",
       "kk"
+    ],
+    "kinetic" : [
+      "?"
     ],
     "koshka" : [
       "bf",
@@ -1185,6 +1192,21 @@
         "silence" : true
       },
       "type" : "laner"
+    },
+    "kinetic" : {
+      "perk" : {
+        "title" : "?"
+      },
+      "a" : {
+        "title" : "?"
+      },
+      "b" : {
+        "title" : "?"
+      },
+      "c" : {
+        "title" : "?"
+      },
+      "type" : "laner"
     }
   },
   "hero" : {
@@ -1207,6 +1229,7 @@
     "jo" : "Joule",
     "kt" : "Kestrel",
     "kk" : "Koshka",
+    "kn" : "Kinetic",
     "ks" : "Kensei",
     "kr" : "Krul",
     "la" : "Lance",
