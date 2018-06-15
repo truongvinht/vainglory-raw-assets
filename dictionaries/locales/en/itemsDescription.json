@@ -939,7 +939,7 @@
       "3.4" : {
         "name" : "Pulseweave",
         "price" : 2000,
-        "description" : "Passive: Upon taking damage from an enemy hero, gain bonus movement speed for 3s then deal 200 (+15% of bonus health) damage and slow enemies by 25% (+0.015% of bonus health) for 2s. (30s cooldown)\n\nPassive: +10% base movement speed\n\nPassive: Lifespring\n\n+700 Max Health",
+        "description" : "Passiv: Erleidest du Schaden durch einen gegnerischen Helden, erhöht sich dein Bewegungstemp 3s lang; dann teilst du 200 (+15% der Bonus-LE) Schaden aus und verlangsamst Gegner 2s lang um 25% (+0.015% der Bonus-LE). (Abklingzeit: 30s)\n\nPassiv: Grundwert des Bewegungstempos +10%\n\nPassiv: Lifespring",
         "depending" : [
           "Dragonheart",
           "Lifespring"
@@ -975,7 +975,7 @@
       "3.4" : {
         "name" : "Capacitor Plate",
         "price" : 2100,
-        "description" : "Passive: Your heals and barriers are 20% stronger.\n\nPassive: Your heals and barriers also grant other allied heroes bonus movement speed for 2s. (10s cooldown per hero)\n\n\n+450 Max Health\n+30 Armor\n+30 Shield\n+15% Cooldown Reduction (Max 45%)",
+        "description" : "Passiv: Deine Heilungen und Barrieren sind 20% stärker.\n\nPassiv: Deine Heilungen und Barrieren erhöhen auch 2s lang das Bewegungstempo verbündeter Helden. (Abklingzeig: 10s pro Held)\n\n+450 Maximale Lebensenergie\n\n+30 Rüstung\n\n+30 Schild\n\n+15% Reduzierung der Abklingzeit (max. 45%)",
         "depending" : [
           "Dragonheart",
           "Chronograph"
@@ -991,7 +991,7 @@
       "3.4" : {
         "name" : "Rook's Decree",
         "price" : 2200,
-        "description" : "Passive: After using an ability, your next basic attack against an enemy hero will grant 100 (+15% of bonus health) to nearby allies for 2 seconds (8s cooldown).\n\n+600 Max Health\n+2.5 Energy Recharge\n+15% Cooldown Reduction (Max 45%)\n",
+        "description" : "Passiv: Wenn du eine Fähigkeit einsetzt, gewährt deine nächste normale Attack gegen einen gegnerischen Helden nahen verbündeten 2s lang eine Barriere von 100 (+15% der Bonus-LE). (Abklingzeit: 8s)\n\n+600 Maximale Lebensenergie\n\n+2.5 Energie-regen.\n\n+15% Reduzierung der Abklingzeit (max 45%)",
         "depending" : [
           "Dragonheart",
           "Chronograph"

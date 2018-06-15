@@ -20,7 +20,8 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "*1059_Item_BookOfEulogies*" : {
       "3.0" : {
@@ -44,7 +45,8 @@
         "image" : "book-of-eulogies"
       },
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "*1004_Item_SwiftShooter*" : {
       "3.0" : {
@@ -61,7 +63,8 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "*1080_Item_MinionsFoot*" : {
       "3.0" : {
@@ -75,7 +78,8 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "*1003_Item_CrystalBit*" : {
       "3.0" : {
@@ -90,7 +94,8 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "*1025_Item_EnergyBattery*" : {
       "3.0" : {
@@ -106,7 +111,8 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "*1026_Item_Hourglass*" : {
       "3.0" : {
@@ -124,7 +130,8 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "*1065_Item_HeavySteel*" : {
       "3.0" : {
@@ -142,7 +149,8 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "*1005_Item_SixSins*" : {
       "3.0" : {
@@ -160,7 +168,8 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "*1060_Item_BarbedNeedle*" : {
       "3.0" : {
@@ -178,7 +187,8 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "*1066_Item_PiercingSpear*" : {
       "3.0" : {
@@ -196,7 +206,8 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "*1010_Item_BlazingSalvo*" : {
       "3.0" : {
@@ -216,7 +227,8 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "*1068_Item_LuckyStrike*" : {
       "3.0" : {
@@ -234,7 +246,8 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "*1028_Item_Chronograph*" : {
       "3.0" : {
@@ -254,7 +267,8 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "*1012_Item_Sorrowblade*" : {
       "3.0" : {
@@ -274,7 +288,8 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "*1034_Item_SerpentMask*" : {
       "3.0" : {
@@ -294,7 +309,8 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "spellsword" : {
       "3.0" : {
@@ -314,7 +330,8 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "*1092_Item_PoisonedShiv*" : {
       "3.0" : {
@@ -334,7 +351,22 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {
+        "name" : "Poisoned Shiv",
+        "price" : 2250,
+        "description" : "Passiv: Jede 2-te normale Attacke verursacht eine tödliche Wunde für 2s.\nVampirismus: +8% Lebensraub (lässt sich nicht mit anderem Vampirismus stapeln)\nPassiv: Book of Eulogies\n\n+40 Waffenstärke\n+25% Angriffstempo",
+        "depending" : [
+          "Barbed Needle",
+          "Blazing Salvo"
+        ],
+        "category" : [
+          "1"
+        ],
+        "tier" : 3,
+        "image" : "poisoned-shiv",
+        "code" : "PS"
+      }
     },
     "*1067_Item_BreakingPoint*" : {
       "3.0" : {
@@ -368,7 +400,8 @@
         "image" : "breaking-point",
         "code" : "BP"
       },
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "*1035_Item_TensionBow*" : {
       "3.0" : {
@@ -416,7 +449,8 @@
         "tier" : 3,
         "image" : "tension-bow",
         "code" : "TB"
-      }
+      },
+      "3.4" : {}
     },
     "*1039_Item_Bonesaw*" : {
       "3.0" : {
@@ -436,7 +470,22 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {
+        "name" : "Bonesaw",
+        "price" : 2700,
+        "description" : "Passiv: Deine normalen Attacken zerstören 5% der Rüstung des Ziels für 3. Maximal 8 Stapel.\nPanzerbrecher: +18% Rüstungsdurchdringung (lässt sich nicht mit anderem Panzerbrecher stapeln)\n\n+15 Waffenstärke\n+20% Angriffstempo",
+        "depending" : [
+          "Piercing Spear",
+          "Blazing Salvo"
+        ],
+        "category" : [
+          "1"
+        ],
+        "tier" : 3,
+        "image" : "bonesaw",
+        "code" : "BS"
+      }
     },
     "*1014_Item_TornadoTrigger*" : {
       "3.0" : {
@@ -470,7 +519,22 @@
         "code" : "TT"
       },
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {
+        "name" : "Tornado Trigger",
+        "price" : 2600,
+        "description" : "Passiv: Normale Attacken erhöhen den Grundwert deines Bewegungstempos 1.2 lang um 10%.\n\n+40% Angriffstempo\n+35% Chance auf kritische Treffer",
+        "depending" : [
+          "Blazing Salvo",
+          "Lucky Strike"
+        ],
+        "category" : [
+          "1"
+        ],
+        "tier" : 3,
+        "image" : "tornado-trigger",
+        "code" : "TT"
+      }
     },
     "*1049_Item_TyrantsMonocle*" : {
       "3.0" : {
@@ -504,7 +568,8 @@
         "code" : "TM"
       },
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "*1072_Item_HeavyPrism*" : {
       "3.0" : {
@@ -522,7 +587,8 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "*1009_Item_EclipsePrism*" : {
       "3.0" : {
@@ -540,7 +606,8 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "*1070_Item_PiercingShard*" : {
       "3.0" : {
@@ -558,7 +625,8 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "*1027_Item_VoidBattery*" : {
       "3.0" : {
@@ -576,7 +644,8 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "*1013_Item_Shatterglass*" : {
       "3.0" : {
@@ -596,7 +665,8 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "*Spellfire*" : {
       "3.0" : {
@@ -616,7 +686,8 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "*1044_Item_Frostburn*" : {
       "3.0" : {
@@ -650,7 +721,8 @@
         "tier" : 3,
         "image" : "frostburn",
         "code" : "FB"
-      }
+      },
+      "3.4" : {}
     },
     "*DragonsEye*" : {
       "3.0" : {
@@ -670,7 +742,8 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "*1029_Item_Clockwork*" : {
       "3.0" : {
@@ -690,7 +763,22 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {
+        "name" : "Clockwork",
+        "price" : 2400,
+        "description" : "Passiv: Wenn du einem Gegner mit einer Fähigkeit Schaden zufügst, werden alle Abklingzeiten um 10% verkürzt. Kann nur alle 3s geschehen.\n\n+40 Kristallmacht\n+20% Abklinggeschw.\n+600 Maximale Energie\n+10 Energie-regen.",
+        "depending" : [
+          "Void Battery",
+          "Chronograph"
+        ],
+        "category" : [
+          "2"
+        ],
+        "tier" : 3,
+        "image" : "clockwork",
+        "code" : "CW"
+      }
     },
     "*1055_Item_BrokenMyth*" : {
       "3.0" : {
@@ -710,7 +798,8 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "*1071_Item_EveOfHarvest*" : {
       "3.0" : {
@@ -730,7 +819,8 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "*1050_Item_Aftershock*" : {
       "3.0" : {
@@ -764,7 +854,22 @@
         "image" : "aftershock",
         "code" : "AS"
       },
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {
+        "name" : "Aftershock",
+        "price" : 2400,
+        "description" : "Passiv: Nach Anwendung einer Fähigkeit verursacht deine nächste normale Attacke Schaden in Höhe von 12% der max. Lebensenergie des Ziels mit +50% Lebensraub. Max. 400 Schaden gegen Nicht-Helden.\n\n1.5s Abklingzeit.\n+25% Abklinggeschw.\n+2.5 Energie-regen.\n+35 Kristallmacht",
+        "depending" : [
+          "Heavy Prism",
+          "Void Battery"
+        ],
+        "category" : [
+          "2"
+        ],
+        "tier" : 3,
+        "image" : "aftershock",
+        "code" : "AS"
+      }
     },
     "*1069_Item_AlternatingCurrent*" : {
       "3.0" : {
@@ -784,7 +889,22 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {
+        "name" : "Alternating Current",
+        "price" : 2800,
+        "description" : "Passiv: Jede zweite normale Attack verusacht 70% deiner Kristallmacht als Bonusschaden.\n\n+60 Kristallmacht\n+30% Angriffstempo",
+        "depending" : [
+          "Heavy Prism",
+          "Blazing Salvo"
+        ],
+        "category" : [
+          "2"
+        ],
+        "tier" : 3,
+        "image" : "alternating-current",
+        "code" : "AC"
+      }
     },
     "*1015_Item_Oakheart*" : {
       "3.0" : {
@@ -800,7 +920,8 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "*1061_Item_LightSchild*" : {
       "3.0" : {
@@ -815,7 +936,8 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "*1017_Item_LightRüstung*" : {
       "3.0" : {
@@ -830,7 +952,8 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "*1016_Item_Dragonheart*" : {
       "3.0" : {
@@ -848,7 +971,8 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "*1064_Item_Lifespring*" : {
       "3.0" : {
@@ -866,7 +990,8 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "*1043_Item_ReflexBlock*" : {
       "3.0" : {
@@ -884,7 +1009,8 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "*1062_Item_KineticSchild*" : {
       "3.0" : {
@@ -902,7 +1028,8 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "*1022_Item_CoatOfPlates*" : {
       "3.0" : {
@@ -920,26 +1047,68 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
-    },
-    "*1105_Item_SlumberingHusk*" : {
-      "3.0" : {
-        "name" : "Slumbering Husk",
-        "price" : 1700,
-        "description" : "Passiv: Wenn du innerhalb von 1.5 25% deiner maximalen Lebensenergie an Schaden erleidest, wird deine restliche Lebensenergie 2 lang verstärkt. (25 Abklingzeit).\n\n+650 Maximale Lebensenergie",
+      "3.3" : {},
+      "3.4" : {
+        "name" : "Coat of Plates",
+        "price" : 800,
+        "description" : "+65 Rüstung\n+10 Schild",
         "depending" : [
-          "Dragonheart"
+          "Light Rüstung"
+        ],
+        "category" : [
+          "3"
+        ],
+        "tier" : 2,
+        "image" : "coat-of-plates"
+      }
+    },
+    "Pulsweave" : {
+      "3.4" : {
+        "name" : "Pulseweave",
+        "price" : 2000,
+        "description" : "Passive: Upon taking damage from an enemy hero, gain bonus movement speed for 3s then deal 200 (+15% of bonus health) damage and slow enemies by 25% (+0.015% of bonus health) for 2s. (30s cooldown)\n\nPassive: +10% base movement speed\n\nPassive: Lifespring\n\n+700 Max Health",
+        "depending" : [
+          "Dragonheart",
+          "Lifespring"
         ],
         "category" : [
           "3"
         ],
         "tier" : 3,
-        "image" : "slumbering-husk",
-        "code" : "SH"
-      },
-      "3.1" : {},
-      "3.2" : {},
-      "3.3" : {}
+        "image" : "pulseweave"
+      }
+    },
+    "CapacitorPlate" : {
+      "3.4" : {
+        "name" : "Capacitor Plate",
+        "price" : 2100,
+        "description" : "Passive: Your heals and barriers are 20% stronger.\n\nPassive: Your heals and barriers also grant other allied heroes bonus movement speed for 2s. (10s cooldown per hero)\n\n\n+450 Max Health\n+30 Armor\n+30 Shield\n+15% Cooldown Reduction (Max 45%)",
+        "depending" : [
+          "Dragonheart",
+          "Chronograph"
+        ],
+        "category" : [
+          "3"
+        ],
+        "tier" : 3,
+        "image" : "capacitor-plate"
+      }
+    },
+    "RooksDecree" : {
+      "3.4" : {
+        "name" : "Rook's Decree",
+        "price" : 2200,
+        "description" : "Passive: After using an ability, your next basic attack against an enemy hero will grant 100 (+15% of bonus health) to nearby allies for 2 seconds (8s cooldown).\n\n+600 Max Health\n+2.5 Energy Recharge\n+15% Cooldown Reduction (Max 45%)\n",
+        "depending" : [
+          "Dragonheart",
+          "Chronograph"
+        ],
+        "category" : [
+          "3"
+        ],
+        "tier" : 3,
+        "image" : "rooks-decree"
+      }
     },
     "*1046_Item_Crucible*" : {
       "3.0" : {
@@ -959,7 +1128,8 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "*1045_Item_FountainOfRenewal*" : {
       "3.0" : {
@@ -979,7 +1149,22 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {
+        "name" : "Fountain of Renewal",
+        "price" : 2300,
+        "description" : "Passiv: Heilt dich und Verbündete in der Nähe über 3s um 2.5 Punkte für jedes fehlende Prozent Lebensenergie (65s Abklingzeit).\n\n+250 Maximale Lebensenergie\n+65 Schild\n+20 Rüstung",
+        "depending" : [
+          "Lifespring",
+          "Kinetic Schild"
+        ],
+        "category" : [
+          "3"
+        ],
+        "tier" : 3,
+        "image" : "fountain-of-renewal",
+        "code" : "FR"
+      }
     },
     "*1063_Item_Aegis*" : {
       "3.0" : {
@@ -1013,7 +1198,8 @@
         "code" : "AG"
       },
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "*1024_Item_MetalJacket*" : {
       "3.0" : {
@@ -1045,7 +1231,42 @@
         "code" : "MJ"
       },
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
+    },
+    "*1105_Item_SlumberingHusk*" : {
+      "3.0" : {
+        "name" : "Slumbering Husk",
+        "price" : 1700,
+        "description" : "Passiv: Wenn du innerhalb von 1.5 25% deiner maximalen Lebensenergie an Schaden erleidest, wird deine restliche Lebensenergie 2 lang verstärkt. (25 Abklingzeit).\n\n+650 Maximale Lebensenergie",
+        "depending" : [
+          "Dragonheart"
+        ],
+        "category" : [
+          "3"
+        ],
+        "tier" : 3,
+        "image" : "slumbering-husk",
+        "code" : "SH"
+      },
+      "3.1" : {},
+      "3.2" : {},
+      "3.3" : {},
+      "3.4" : {
+        "name" : "Slumbering Husk",
+        "price" : 1700,
+        "description" : "Passiv: Wenn du innerhalb von 1.5 20% deiner maximalen Lebensenergie an Schaden erleidest, wird deine restliche Lebensenergie 2 lang verstärkt. (25 Abklingzeit).\n\n+75 Rüstung\n\n+75 Schild",
+        "depending" : [
+          "Kinetic Shield",
+          "Coat of Plates"
+        ],
+        "category" : [
+          "3"
+        ],
+        "tier" : 3,
+        "image" : "slumbering-husk",
+        "code" : "SH"
+      }
     },
     "*1057_Item_AtlasPauldron*" : {
       "3.0" : {
@@ -1077,7 +1298,8 @@
         "tier" : 3,
         "image" : "atlas-pauldron",
         "code" : "AP"
-      }
+      },
+      "3.4" : {}
     },
     "*1030_Item_SprintBoots*" : {
       "3.0" : {
@@ -1092,7 +1314,8 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "*1032_Item_TravelBoots*" : {
       "3.0" : {
@@ -1110,7 +1333,8 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "*1088_Item_Flaregun*" : {
       "3.0" : {
@@ -1128,7 +1352,8 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "*1074_Item_StormguardBanner*" : {
       "3.0" : {
@@ -1158,7 +1383,8 @@
         ],
         "tier" : 2,
         "image" : "stormguard-banner"
-      }
+      },
+      "3.4" : {}
     },
     "*1047_Item_JourneyBoots*" : {
       "3.0" : {
@@ -1177,7 +1403,8 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "*1056_Item_WarTreads*" : {
       "3.0" : {
@@ -1197,7 +1424,8 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "*1087_Item_HalcyonChargers*" : {
       "3.0" : {
@@ -1217,7 +1445,8 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "*1097_Item_Echo*" : {
       "3.0" : {
@@ -1256,7 +1485,8 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "*1090_Item_Stormcrown*" : {
       "3.0" : {
@@ -1304,7 +1534,8 @@
         "tier" : 3,
         "image" : "stormcrown",
         "code" : "SC"
-      }
+      },
+      "3.4" : {}
     },
     "*1095_Item_NullwaveGauntlet*" : {
       "3.0" : {
@@ -1324,7 +1555,8 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "*1042_Item_Shiversteel*" : {
       "3.0" : {
@@ -1344,7 +1576,22 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {
+        "name" : "Shiversteel",
+        "price" : 1950,
+        "description" : "Aktiv: In den nächsten 4s (6s wenn du im Nahkampf bist) verlangsamen deine normale Attacken gegnerische Helden 1.4s lang um 40% (12s Abklingzeit).\n\n+650 Maximale Lebensenergie\n+25% Angriffstempo",
+        "depending" : [
+          "Blazing Salvo",
+          "Dragonheart"
+        ],
+        "category" : [
+          "4"
+        ],
+        "tier" : 3,
+        "image" : "shiversteel",
+        "code" : "SV"
+      }
     },
     "Healing Flask" : {
       "3.0" : {
@@ -1359,7 +1606,8 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "*1038_Item_Flare*" : {
       "3.0" : {
@@ -1374,7 +1622,8 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "*1054_Item_ScoutTrap*" : {
       "3.0" : {
@@ -1389,7 +1638,8 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "*1041_Item_MinionCandy*" : {
       "3.0" : {
@@ -1413,7 +1663,8 @@
         "tier" : 1,
         "image" : "minion-candy"
       },
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "*1073_Item_IronguardContract*" : {
       "3.0" : {
@@ -1428,7 +1679,8 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "1084_Item_ProtectorContract*" : {
       "3.0" : {
@@ -1443,7 +1695,8 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "DragonbloodContract" : {
       "3.0" : {
@@ -1458,7 +1711,8 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "*1052_Item_WeaponInfusion*" : {
       "3.0" : {
@@ -1477,6 +1731,16 @@
         "name" : "Weapon Infusion",
         "price" : 500,
         "description" : "Verbrauchen: Verleiht für kurze Zeit 20-70 Waffenstärke, 5%-20% Angriffsgeschwindigkeit sowie 0-15 Rüstungs & Schildstärke in Abhängigkeit von deiner Stufe. Wirkt 150s lang. Es wirkt immer nur eine Infusion.",
+        "category" : [
+          "5"
+        ],
+        "tier" : 1,
+        "image" : "weapon-infusion"
+      },
+      "3.4" : {
+        "name" : "Weapon Infusion",
+        "price" : 500,
+        "description" : "Verbrauchen: Verleiht für kurze Zeit 20-70 Waffenstärke, 5%-15% Angriffsgeschwindigkeit sowie 0-15 Rüstungs & Schildstärke in Abhängigkeit von deiner Stufe. Wirkt 150s lang. Es wirkt immer nur eine Infusion.",
         "category" : [
           "5"
         ],
@@ -1506,7 +1770,8 @@
         ],
         "tier" : 1,
         "image" : "crystal-infusion"
-      }
+      },
+      "3.4" : {}
     },
     "Flare Loader" : {
       "3.0" : {
@@ -1521,7 +1786,8 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "ScoutPak" : {
       "3.0" : {
@@ -1538,7 +1804,8 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "ScoutTuff" : {
       "3.0" : {
@@ -1555,7 +1822,8 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     },
     "SuperScout" : {
       "3.0" : {
@@ -1574,7 +1842,8 @@
       },
       "3.1" : {},
       "3.2" : {},
-      "3.3" : {}
+      "3.3" : {},
+      "3.4" : {}
     }
   }
 }
