@@ -1075,7 +1075,8 @@
           "3"
         ],
         "tier" : 3,
-        "image" : "pulseweave"
+        "image" : "pulseweave",
+        "code" : "PW"
       }
     },
     "CapacitorPlate" : {
@@ -1091,7 +1092,8 @@
           "3"
         ],
         "tier" : 3,
-        "image" : "capacitor-plate"
+        "image" : "capacitor-plate",
+        "code" : "CP"
       }
     },
     "RooksDecree" : {
@@ -1107,7 +1109,8 @@
           "3"
         ],
         "tier" : 3,
-        "image" : "rooks-decree"
+        "image" : "rooks-decree",
+        "code" : "RD"
       }
     },
     "*1046_Item_Crucible*" : {
