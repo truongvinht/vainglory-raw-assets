@@ -935,23 +935,21 @@
       "3.2" : {},
       "3.3" : {}
     },
-    "*1105_Item_SlumberingHusk*" : {
-      "3.0" : {
-        "name" : "Slumbering Husk",
-        "price" : 1700,
-        "description" : "Passive: Taking 25% of your max health in damage over 1.5 fortifies your remaining health for 2 (25 cooldown). +650 Max Health",
+    "Pulsweave" : {
+      "3.4" : {
+        "name" : "Pulseweave",
+        "price" : 2000,
+        "description" : "Passive: Upon taking damage from an enemy hero, gain bonus movement speed for 3s then deal 200 (+15% of bonus health) damage and slow enemies by 25% (+0.015% of bonus health) for 2s. (30s cooldown)\n\nPassive: +10% base movement speed\n\nPassive: Lifespring\n\n+700 Max Health",
         "depending" : [
-          "Dragonheart"
+          "Dragonheart",
+          "Lifespring"
         ],
         "category" : [
           "3"
         ],
         "tier" : 3,
-        "image" : "slumbering-husk"
-      },
-      "3.1" : {},
-      "3.2" : {},
-      "3.3" : {}
+        "image" : "pulseweave"
+      }
     },
     "*1046_Item_Crucible*" : {
       "3.0" : {
@@ -972,6 +970,38 @@
       "3.1" : {},
       "3.2" : {},
       "3.3" : {}
+    },
+    "CapacitorPlate" : {
+      "3.4" : {
+        "name" : "Capacitor Plate",
+        "price" : 2100,
+        "description" : "Passive: Your heals and barriers are 20% stronger.\n\nPassive: Your heals and barriers also grant other allied heroes bonus movement speed for 2s. (10s cooldown per hero)\n\n\n+450 Max Health\n+30 Armor\n+30 Shield\n+15% Cooldown Reduction (Max 45%)",
+        "depending" : [
+          "Dragonheart",
+          "Chronograph"
+        ],
+        "category" : [
+          "3"
+        ],
+        "tier" : 3,
+        "image" : "capacitor-plate"
+      }
+    },
+    "RooksDecree" : {
+      "3.4" : {
+        "name" : "Rook's Decree",
+        "price" : 2200,
+        "description" : "Passive: After using an ability, your next basic attack against an enemy hero will grant 100 (+15% of bonus health) to nearby allies for 2 seconds (8s cooldown).\n\n+600 Max Health\n+2.5 Energy Recharge\n+15% Cooldown Reduction (Max 45%)\n",
+        "depending" : [
+          "Dragonheart",
+          "Chronograph"
+        ],
+        "category" : [
+          "3"
+        ],
+        "tier" : 3,
+        "image" : "rooks-decree"
+      }
     },
     "*1045_Item_FountainOfRenewal*" : {
       "3.0" : {
@@ -1024,6 +1054,24 @@
         "image" : "aegis",
         "code" : "AG"
       },
+      "3.2" : {},
+      "3.3" : {}
+    },
+    "*1105_Item_SlumberingHusk*" : {
+      "3.0" : {
+        "name" : "Slumbering Husk",
+        "price" : 1700,
+        "description" : "Passive: Taking 25% of your max health in damage over 1.5 fortifies your remaining health for 2 (25 cooldown). +650 Max Health",
+        "depending" : [
+          "Dragonheart"
+        ],
+        "category" : [
+          "3"
+        ],
+        "tier" : 3,
+        "image" : "slumbering-husk"
+      },
+      "3.1" : {},
       "3.2" : {},
       "3.3" : {}
     },
