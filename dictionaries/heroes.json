@@ -12,6 +12,9 @@
       "tk",
       "cl"
     ],
+    "anka" : [
+      "?"
+    ],
     "ardan" : [
       "sy",
       "gl",
@@ -269,6 +272,9 @@
       "lr",
       "la",
       "rn"
+    ],
+    "anka" : [
+      "?"
     ],
     "ardan" : [
       "lr",
@@ -566,6 +572,21 @@
       },
       "type" : "jungler"
     },
+    "anka" : {
+      "perk" : {
+        "title" : "?"
+      },
+      "a" : {
+        "title" : "?"
+      },
+      "b" : {
+        "title" : "?"
+      },
+      "c" : {
+        "title" : "?"
+      },
+      "type" : "jungler"
+    },
     "ardan" : {
       "perk" : {
         "title" : "Julia's Gift"
@@ -845,21 +866,36 @@
       },
       "type" : "laner"
     },
-    "koshka" : {
+    "kestrel" : {
       "perk" : {
-        "title" : "Bloodrush"
+        "title" : "Adrenaline"
       },
       "a" : {
-        "title" : "Pouncy Fun"
+        "title" : "Glimmershot"
       },
       "b" : {
-        "title" : "Twirly Death"
-      },
-      "c" : {
-        "title" : "Yummy Catnip Frenzy",
+        "title" : "Active Camo",
         "stun" : true
       },
-      "type" : "jungler"
+      "c" : {
+        "title" : "One Shot One Kill"
+      },
+      "type" : "laner"
+    },
+    "kinetic" : {
+      "perk" : {
+        "title" : "?"
+      },
+      "a" : {
+        "title" : "?"
+      },
+      "b" : {
+        "title" : "?"
+      },
+      "c" : {
+        "title" : "?"
+      },
+      "type" : "laner"
     },
     "krul" : {
       "perk" : {
@@ -1196,26 +1232,12 @@
         "silence" : true
       },
       "type" : "laner"
-    },
-    "kinetic" : {
-      "perk" : {
-        "title" : "?"
-      },
-      "a" : {
-        "title" : "?"
-      },
-      "b" : {
-        "title" : "?"
-      },
-      "c" : {
-        "title" : "?"
-      },
-      "type" : "laner"
     }
   },
   "hero" : {
     "ag" : "Adagio",
     "ap" : "Alpha",
+    "ak" : "Anka",
     "ad" : "Ardan",
     "bt" : "Baptiste",
     "br" : "Baron",
