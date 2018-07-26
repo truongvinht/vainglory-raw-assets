@@ -866,22 +866,6 @@
       },
       "type" : "laner"
     },
-    "kestrel" : {
-      "perk" : {
-        "title" : "Adrenaline"
-      },
-      "a" : {
-        "title" : "Glimmershot"
-      },
-      "b" : {
-        "title" : "Active Camo",
-        "stun" : true
-      },
-      "c" : {
-        "title" : "One Shot One Kill"
-      },
-      "type" : "laner"
-    },
     "kinetic" : {
       "perk" : {
         "title" : "?"
