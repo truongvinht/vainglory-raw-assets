@@ -222,6 +222,9 @@
       "rg",
       "gw"
     ],
+    "silvernail" : [
+      "?"
+    ],
     "skaarf" : [
       "sa",
       "pt",
@@ -492,6 +495,9 @@
       "jo",
       "id",
       "re"
+    ],
+    "silvernail" : [
+      "?"
     ],
     "skaarf" : [
       "tk",
@@ -1120,6 +1126,21 @@
       },
       "type" : "laner"
     },
+    "silvernail" : {
+      "perk" : {
+        "title" : "Double Shot"
+      },
+      "a" : {
+        "title" : "Stake"
+      },
+      "b" : {
+        "title" : "Caustic Blessing"
+      },
+      "c" : {
+        "title" : "Rebuke"
+      },
+      "type" : "laner"
+    },
     "skaarf" : {
       "perk" : {
         "title" : "Fan the Flames"
@@ -1255,6 +1276,7 @@
     "rn" : "Rona",
     "sm" : "Samuel",
     "sa" : "SAW",
+    "sn" : "Silvernail",
     "sk" : "Skaarf",
     "sy" : "Skye",
     "tk" : "Taka",
