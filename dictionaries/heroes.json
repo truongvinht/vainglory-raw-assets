@@ -166,7 +166,8 @@
       "pt",
       "gw",
       "vo",
-      "sy"
+      "sy",
+      "br"
     ],
     "petal" : [
       "tk",
@@ -223,7 +224,9 @@
       "gw"
     ],
     "silvernail" : [
-      "?"
+      "oz",
+      "gj",
+      "kk"
     ],
     "skaarf" : [
       "sa",
@@ -259,6 +262,10 @@
       "ph",
       "pt",
       "gw"
+    ],
+    "yates" : [
+      "sk",
+      "cl"
     ]
   },
   "against" : {
@@ -439,7 +446,8 @@
       "kr",
       "rn",
       "lr",
-      "ct"
+      "ct",
+      "sn"
     ],
     "petal" : [
       "oz",
@@ -497,7 +505,7 @@
       "re"
     ],
     "silvernail" : [
-      "?"
+      "sk"
     ],
     "skaarf" : [
       "tk",
@@ -541,6 +549,10 @@
       "ap",
       "br",
       "ml"
+    ],
+    "yates" : [
+      "kr",
+      "re"
     ]
   },
   "ability" : {
@@ -1237,6 +1249,21 @@
         "silence" : true
       },
       "type" : "laner"
+    },
+    "yates" : {
+      "perk" : {
+        "title" : "a"
+      },
+      "a" : {
+        "title" : "b"
+      },
+      "b" : {
+        "title" : "c"
+      },
+      "c" : {
+        "title" : "d"
+      },
+      "type" : "captain"
     }
   },
   "hero" : {
@@ -1282,6 +1309,7 @@
     "tk" : "Taka",
     "tn" : "Tony",
     "vr" : "Varya",
-    "vo" : "Vox"
+    "vo" : "Vox",
+    "yt" : "Yates"
   }
 }
