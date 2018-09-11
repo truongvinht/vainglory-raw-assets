@@ -13,7 +13,9 @@
       "cl"
     ],
     "anka" : [
-      "?"
+      "kt",
+      "jo",
+      "pt"
     ],
     "ardan" : [
       "sy",
@@ -124,7 +126,9 @@
       "ad"
     ],
     "kinetic" : [
-      "?"
+      "tk",
+      "bf",
+      "ag"
     ],
     "koshka" : [
       "rg",
@@ -157,10 +161,9 @@
       "kk"
     ],
     "malene" : [
-      "jo",
-      "kk",
-      "kr",
-      "vo"
+      "tk",
+      "bf",
+      "pt"
     ],
     "ozo" : [
       "pt",
@@ -226,7 +229,9 @@
     "silvernail" : [
       "oz",
       "gj",
-      "kk"
+      "kk",
+      "ak",
+      "gr"
     ],
     "skaarf" : [
       "sa",
@@ -249,7 +254,9 @@
       "br"
     ],
     "tony" : [
-      "?"
+      "rn",
+      "lr",
+      "bf"
     ],
     "varya" : [
       "re",
@@ -284,7 +291,9 @@
       "rn"
     ],
     "anka" : [
-      "?"
+      "fk",
+      "ft",
+      "sn"
     ],
     "ardan" : [
       "lr",
@@ -399,9 +408,9 @@
       "kk"
     ],
     "kinetic" : [
-      "tk",
+      "ft",
       "kr",
-      "bf"
+      "ml"
     ],
     "koshka" : [
       "bf",
@@ -437,9 +446,9 @@
       "id"
     ],
     "malene" : [
-      "pt",
-      "bf",
-      "bt"
+      "ft",
+      "gw",
+      "sa"
     ],
     "ozo" : [
       "la",
@@ -505,7 +514,11 @@
       "re"
     ],
     "silvernail" : [
-      "sk"
+      "br",
+      "tk",
+      "la",
+      "kk",
+      "ft"
     ],
     "skaarf" : [
       "tk",
@@ -528,12 +541,10 @@
       "ap"
     ],
     "tony" : [
+      "gj",
       "pt",
-      "re",
       "kr",
-      "gw",
-      "ph",
-      "kk"
+      "ph"
     ],
     "varya" : [
       "rg",
