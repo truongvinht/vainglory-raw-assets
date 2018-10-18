@@ -107,6 +107,9 @@
       "jo",
       "rg"
     ],
+    "inara" : [
+      "?"
+    ],
     "joule" : [
       "pt",
       "sa",
@@ -389,6 +392,9 @@
       "tk",
       "fk",
       "bf"
+    ],
+    "inara" : [
+      "?"
     ],
     "joule" : [
       "re",
@@ -846,6 +852,21 @@
       },
       "type" : "laner"
     },
+    "inara" : {
+      "perk" : {
+        "title" : "a"
+      },
+      "a" : {
+        "title" : "b"
+      },
+      "b" : {
+        "title" : "c"
+      },
+      "c" : {
+        "title" : "d"
+      },
+      "type" : "jungler"
+    },
     "joule" : {
       "perk" : {
         "title" : "Heavy Plating"
@@ -1295,6 +1316,7 @@
     "gj" : "Grumpjaw",
     "gw" : "Gwen",
     "id" : "Idris",
+    "in" : "Inara",
     "jo" : "Joule",
     "kt" : "Kestrel",
     "kk" : "Koshka",
